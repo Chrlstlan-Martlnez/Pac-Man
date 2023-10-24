@@ -1,0 +1,9 @@
+C:\Users\toyox\OneDrive\Desktop\C\NuevaCarpeta\cs\Pruebas Pac-Man\Pruebas Pac-Man\bin\Debug\Pruebas Pac-Man.exe.config
+C:\Users\toyox\OneDrive\Desktop\C\NuevaCarpeta\cs\Pruebas Pac-Man\Pruebas Pac-Man\bin\Debug\Pruebas Pac-Man.exe
+C:\Users\toyox\OneDrive\Desktop\C\NuevaCarpeta\cs\Pruebas Pac-Man\Pruebas Pac-Man\bin\Debug\Pruebas Pac-Man.pdb
+C:\Users\toyox\OneDrive\Desktop\C\NuevaCarpeta\cs\Pruebas Pac-Man\Pruebas Pac-Man\obj\Debug\Pruebas Pac-Man.csprojResolveAssemblyReference.cache
+C:\Users\toyox\OneDrive\Desktop\C\NuevaCarpeta\cs\Pruebas Pac-Man\Pruebas Pac-Man\obj\Debug\Pruebas_Pac_Man.Form1.resources
+C:\Users\toyox\OneDrive\Desktop\C\NuevaCarpeta\cs\Pruebas Pac-Man\Pruebas Pac-Man\obj\Debug\Pruebas_Pac_Man.Properties.Resources.resources
+C:\Users\toyox\OneDrive\Desktop\C\NuevaCarpeta\cs\Pruebas Pac-Man\Pruebas Pac-Man\obj\Debug\Pruebas Pac-Man.csproj.GenerateResource.Cache
+C:\Users\toyox\OneDrive\Desktop\C\NuevaCarpeta\cs\Pruebas Pac-Man\Pruebas Pac-Man\obj\Debug\Pruebas Pac-Man.exe
+C:\Users\toyox\OneDrive\Desktop\C\NuevaCarpeta\cs\Pruebas Pac-Man\Pruebas Pac-Man\obj\Debug\Pruebas Pac-Man.pdb
